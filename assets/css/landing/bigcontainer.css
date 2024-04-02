@@ -1,0 +1,9 @@
+.container__big {
+    border: 1px solid rgb(179, 31, 31);
+    margin-left: 5%;
+    width: 90%;
+    height: 80vh;
+    display: flex; /* Definindo o display como flex */
+    align-items: center;
+    justify-content: center;
+}
