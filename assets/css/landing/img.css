@@ -1,0 +1,11 @@
+.imgs > img{
+    height: 315px;
+    width: 355px;
+    margin-left: 170px;
+    margin-top: 120px;
+}
+
+.img {
+    border: 1px solid red;
+    align-items: center;
+}
